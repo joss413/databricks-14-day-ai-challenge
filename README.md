@@ -43,7 +43,7 @@ The project is built using the Databricks Medallion Architecture:
 
 📌 Architecture overview
 
-<img src="images/medallion_architecture_bronze_silver_gold.jpg" alt="Medallion Architecture" width="900">
+<img src="Images/medallion_architecture_bronze_silver_gold.jpg" alt="Medallion Architecture" width="900">
 
 This architecture ensures:
 
@@ -77,7 +77,7 @@ After building clean Gold tables, the focus shifted to analytics and storytellin
 
 📌 Business dashboard example
 
-<img src="images/sql_dashboard.jpg" alt="SQL Dashboard" width="900">
+<img src="Images/sql_dashboard.jpg" alt="SQL Dashboard" width="900">
 
 These dashboards convert complex pipelines into clear, actionable insights for stakeholders.
 
@@ -102,11 +102,11 @@ Models were compared based on performance, scalability, and interpretability.
 
 📌 Parallel execution & Spark coordination during model training
 
-<img src="images/spark_parallel_coordination.jpg" alt="Spark Parallel Coordination" width="900">
+<img src="Images/spark_parallel_coordination.jpg" alt="Spark Parallel Coordination" width="900">
 
 📌 MLflow run details and experiment comparison
 
-<img src="images/mlflow_run_details.jpg" alt="MLflow Run Details" width="900">
+<img src="Images/mlflow_run_details.jpg" alt="MLflow Run Details" width="900">
 
 These visuals show:
 
